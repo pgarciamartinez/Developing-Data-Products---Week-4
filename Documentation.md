@@ -6,7 +6,9 @@ https://pgarciamartinez.shinyapps.io/Simple_Mortgage_Calculator/
 
 ## Background
 
-Simple app to calculate monthly mortgage payments. Instructions for using it:
+Simple app to calculate monthly mortgage payments. 
+
+## Instructions
 
 1. Enter the mortgage you want to calculate (please bear in mind that the deposit should not be included in this)
 2. Enter the annual interest to be used
